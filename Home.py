@@ -7,7 +7,7 @@ st.title("🧰 Rmonte's Agent Toolkit")
 st.info(
     "This toolkit is for internal use only. Tools provided here are for estimation and "
     "reference purposes. Always verify results before use in client-facing work. "
-    "Agents must recieve permission from superviosr to use tools as they are not offical Progressive software"
+    "Agents must recieve permission from supervisor to use tools as they are not offical Progressive software"
 )
 
 st.markdown("### Available Tools")
