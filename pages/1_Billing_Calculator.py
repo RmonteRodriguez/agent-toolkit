@@ -2,7 +2,7 @@ import math
 import streamlit as st
 
 st.title("Renters Billing Calculator")
-st.info("Demo version — fees shown are placeholders, not actual Progressive fees or rates.")
+st.info("Alawys double check final numbers before providing to customer.")
 
 annualPremium = st.number_input("Enter Annual Premium Amount", min_value=0.0, step=1.00)
 paymentPlan = st.selectbox(

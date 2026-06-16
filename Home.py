@@ -16,8 +16,8 @@ col1, col2 = st.columns(2)
 
 with col1:
     st.page_link("pages/1_Billing_Calculator.py", label="Renters Billing Calculator", icon="💰")
-    st.caption("Estimate project costs and billing breakdowns.")
+    st.caption("Estimate renters costs and billing breakdowns.")
 
 with col2:
     st.page_link("pages/2_Jewelry_Tool.py", label=" Scheduled Jewelry Tool", icon="💍")
-    st.caption("Reference tool for jewelry pricing and specs.")
+    st.caption("Reference tool for jewelry description")
